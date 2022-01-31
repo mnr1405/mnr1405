@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studied on Telkom University 🤣
 - 👯 I'm currently learning data science and i love data science so much
-- 🥅 2021 Goals: Contribute more to Open Source projects and get an internship
+- 🥅 2022 Goals: Contribute more to Open Source projects and get an internship
 - ⚡ Fun fact: I love reading a novel and playing games
 
 
